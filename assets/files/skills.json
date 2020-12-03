@@ -1,0 +1,59 @@
+{
+  "backend": [
+    {
+      "name": "Node.js"
+    },
+    {
+      "name": "Express.js"
+    },
+    {
+      "name": "Laravel"
+    }
+  ],
+  "frontend": [
+    {
+      "name": "Angular"
+    },
+    {
+      "name": "TypeScript"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "ES6"
+    },
+    {
+      "name": "jQuery"
+    },
+    {
+      "name" : "React.js"
+    },
+    {
+      "name": "Sass"
+    },
+    {
+      "name": "Bootstrap"
+    },
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "CSS"
+    }
+  ],
+  "others": [
+    {
+      "name": "OOP"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "MySql"
+    },
+    {
+      "name": "MongoDB"
+    }
+  ]
+}
